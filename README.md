@@ -31,3 +31,4 @@
 ### Developers:
 
 -  [@BlackAlpha](https://github.com/DarkKingbot/Covid-19-Update-.git)
+Happy New Year 2022
